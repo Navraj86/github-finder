@@ -5,8 +5,10 @@
 
 To run this project, you will need to create and add the following environment variables to your .env file
 
-`VITE_GITHUB_URL="https://api.github.com"`
-`VITE_GITHUB_TOKEN="ghp_your-token"`
+```bash
+  VITE_GITHUB_URL="https://api.github.com"
+  VITE_GITHUB_TOKEN="ghp_your-token"
+```
 
 ## Get Github Token
 
